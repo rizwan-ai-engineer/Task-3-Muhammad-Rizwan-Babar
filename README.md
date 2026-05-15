@@ -106,11 +106,6 @@ New Role Name,"skill1,skill2,skill3,skill4,skill5"
 
 ---
 
-## 🛡️ Qualification
-
-Complete this project to unlock DecodeLabs Week 2 projects.
-All submissions are verified for quality.
-
 ---
 
-*Powered by DecodeLabs · Greater Lucknow, India*
+*Submitted By: Muhammad Rizwan Babar*
