@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/525ccbb4-9b26-4945-93a0-27901acc5d85
+
+
+
+https://github.com/user-attachments/assets/aefba898-1d60-4e93-ae2d-fa781e70e3c3
+
 # 🎯 Tech Stack Recommender
 **DecodeLabs Industrial Training Kit · AI Project 3 · Batch 2026**
 
